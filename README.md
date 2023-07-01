@@ -23,9 +23,9 @@ HR Connect is a comprehensive employee management system developed using Django 
 * pip3 install -r requirements.txt
 5. Set up the PostgreSQL database and update the database configuration in settings.py.
 6. Apply database migrations:
-* python manage.py migrate
+* python3 manage.py migrate
 7. Start the development server:
-* python manage.py runserver
+* python3 manage.py runserver
 
 ## Usage
 
